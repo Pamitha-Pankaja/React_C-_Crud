@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|d:\\.net\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|d:\\.net\\webapplication1\\controllers\\dcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|solutionrelative:controllers\\dcandidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|d:\\.net\\webapplication1\\models\\donationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|solutionrelative:models\\donationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|d:\\.net\\webapplication1\\migrations\\20240719043157_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|solutionrelative:migrations\\20240719043157_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|d:\\.net\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|d:\\.net\\webapplication1\\models\\dcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E3A565-C462-44DF-A522-D427576C5F8C}|WebApplication1.csproj|solutionrelative:models\\dcandidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DCandidatesController.cs",
+              "DocumentMoniker": "D:\\.Net\\WebApplication1\\Controllers\\DCandidatesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DCandidatesController.cs",
+              "ToolTip": "D:\\.Net\\WebApplication1\\Controllers\\DCandidatesController.cs",
+              "RelativeToolTip": "Controllers\\DCandidatesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T05:21:08.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240719043157_InitialMigration.cs",
+              "DocumentMoniker": "D:\\.Net\\WebApplication1\\Migrations\\20240719043157_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240719043157_InitialMigration.cs",
+              "ToolTip": "D:\\.Net\\WebApplication1\\Migrations\\20240719043157_InitialMigration.cs",
+              "RelativeToolTip": "Migrations\\20240719043157_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:31:57.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\.Net\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T04:22:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.Net\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:20:37.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonationDBContext.cs",
+              "DocumentMoniker": "D:\\.Net\\WebApplication1\\Models\\DonationDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DonationDBContext.cs",
+              "ToolTip": "D:\\.Net\\WebApplication1\\Models\\DonationDBContext.cs",
+              "RelativeToolTip": "Models\\DonationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:14:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DCandidate.cs",
+              "DocumentMoniker": "D:\\.Net\\WebApplication1\\Models\\DCandidate.cs",
+              "RelativeDocumentMoniker": "Models\\DCandidate.cs",
+              "ToolTip": "D:\\.Net\\WebApplication1\\Models\\DCandidate.cs",
+              "RelativeToolTip": "Models\\DCandidate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:14:05.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
